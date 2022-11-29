@@ -1,0 +1,15 @@
+.each-event {
+  width: 48%;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+.image-btn {
+  width: 100%;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  border-radius: 10px;
+}
+.image {
+  width: 100%;
+}

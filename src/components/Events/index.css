@@ -1,0 +1,21 @@
+.bg-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+}
+.events {
+  padding: 20px;
+  width: 50vw;
+  border-color: 2px solid red;
+  background-color: #64748b;
+  height: 100%;
+}
+
+.events-container {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0px;
+  flex-wrap: wrap;
+  width: 100%;
+}
